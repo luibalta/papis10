@@ -1,0 +1,189 @@
+#EXTM3U 
+#EXTINF:-1, EVENTO 1
+http://38.188.186.47:4000/play/a03r/index.m3u8
+#EXTINF:-1, EVENTO 2
+https://streamvidex.qzz.io/videx/eventos1/index.m3u8
+#EXTINF:-1, EVENTO 3
+https://streamvidex.qzz.io/videx/eventos2/index.m3u8
+#EXTINF:-1, EVENTO 4
+https://streamvidex.qzz.io/videx/eventos3/index.m3u8
+#EXTINF:-1, EVENTO 5
+https://streamvidex.qzz.io/videx/disney7/index.m3u8
+#EXTINF:-1, EVENTO 6
+https://streamvidex.qzz.io/videx/disney1/index.m3u8
+#EXTINF:-1, EVENTO 7
+https://streamvidex.qzz.io/videx/disney2/index.m3u8
+#EXTINF:-1, EVENTO 8
+https://streamvidex.qzz.io/videx/disney3/index.m3u8
+#EXTINF:-1, EVENTO 9
+https://streamvidex.qzz.io/videx/disney8/index.m3u8
+#EXTINF:-1, EVENTO 10
+https://streamvidex.qzz.io/videx/disney9/index.m3u8
+#EXTINF:-1, EVENTO 11
+https://streamvidex.qzz.io/videx/disney11/index.m3u8
+#EXTINF:-1, EVENTO 12
+https://streamvidex.qzz.io/videx/disney13/index.m3u8
+#EXTINF:-1, EVENTO 13
+https://streamvidex.qzz.io/videx/disney14/index.m3u8
+#EXTINF:-1, EVENTO 14
+https://streamvidex.qzz.io/videx/disney15/index.m3u8
+#EXTINF:-1, SKY LA LIGA
+http://177.10.184.60:8002/play/a01d/index.m3u8
+#EXTINF:-1, SKY LA LIGA OP2
+http://190.61.101.11:7050/play/a04g
+#EXTINF:-1, SKY LA LIGA OP3
+http://201.190.41.246:8822/play/a02h
+#EXTINF:-1, SKY LA LIGA OP4
+https://streamvidex.qzz.io/videx/skylaliga/index.m3u8
+#EXTINF:-1, FUTV
+http://186.33.25.234:8125/play/a0cn/index.m3u8 
+#EXTINF:-1, TD+
+http://190.105.128.198:5800/play/a02g
+#EXTINF:-1, TD+ 2
+http://190.105.128.198:5800/play/a02h
+
+#EXTINF:-1, BEINSPORT XTRA Ñ
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
+#EXTINF:-1, BEINSPORT USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1, BEINSPORT ENG
+https://ir14.livekadeh.com/hls2/bein1.m3u8
+#EXTINF:-1, ESPN MX
+https://streamvidex.qzz.io/videx/espnmx/index.m3u8
+#EXTINF:-1, ESPN ARG
+http://playcom.trapemn.tv:1935/transcoderip/espn.stream/playlist.m3u8
+#EXTINF:-1, ESPN OP2
+http://181.78.21.174:8015/play/a00l/index.m3u8
+#EXTINF:-1, ESPN OP3
+https://streamvidex.qzz.io/videx/espn/index.m3u8
+#EXTINF:-1, ESPN 2 
+http://181.224.255.210:8001/play/a0oj/index.m3u8
+#EXTINF:-1, ESPN 2 ARG
+http://playcom.trapemn.tv:1935/transcoderip/espn2.stream/playlist.m3u8
+#EXTINF:-1, ESPN 2 OP2
+https://streamvidex.qzz.io/videx/espn2/index.m3u8
+#EXTINF:-1, ESPN 3
+http://179.1.87.75:8098/play/a0hn/index.m3u8
+#EXTINF:-1, ESPN 3 ARG
+http://playcom.trapemn.tv:1935/transcoderip/espn3.stream/playlist.m3u8
+#EXTINF:-1, ESPN 4
+http://179.1.87.75:8098/play/a0fu/index.m3u8
+#EXTINF:-1, ESPN 5
+http://181.224.255.210:8001/play/a0pr/index.m3u8
+#EXTINF:-1, ESPN 6
+http://179.1.87.75:8098/play/a0up/index.m3u8
+#EXTINF:-1, ESPN 7
+http://181.224.255.210:8001/play/a0m5/index.m3u8
+#EXTINF:-1, FOX GT
+http://186.33.25.234:8125/play/a0e5/index.m3u8
+#EXTINF:-1, FOX ES
+http://186.33.25.234:8125/play/a0a9/index.m3u8
+#EXTINF:-1, FOXONE 2
+http://190.61.101.11:7050/play/a08w/index.m3u8
+#EXTINF:-1, FOX PLUS
+http://186.33.25.234:8125/play/a09c/index.m3u8
+#EXTINF:-1, FOX SPORT MX 
+http://190.61.101.11:7050/play/a08t/index.m3u8 
+#EXTINF:-1, FOX SPORT 2 
+http://179.1.87.75:8098/play/a0fg/index.m3u8
+#EXTINF:-1, FOX SPORT 3 
+http://179.1.87.75:8098/play/a0fh/index.m3u8
+#EXTINF:-1, LIGA MAX
+http://179.1.87.75:8098/play/a0t4/index.m3u8
+#EXTINF:-1, TUDN MX
+http://24.152.53.3:8090/play/a012/index.m3u8 
+#EXTINF:-1, TUDN MX OP2
+https://streamvidex.qzz.io/videx/tudnmx/index.m3u8
+#EXTINF:-1, TUDN USA
+https://streamvidex.qzz.io/videx/tudnus/index.m3u8
+#EXTINF:-1, DAZN 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1, DAZN 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1, DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1, CLARO SPORT 
+https://streamvidex.qzz.io/videx/clarosports/index.m3u8
+#EXTINF:-1, CLARO SPORT 2
+http://186.33.25.234:8125/play/a07c
+#EXTINF:-1, CLARO SPORT MX
+http://201.77.60.62:8002/play/a0cm/index.m3u8
+#EXTINF:-1, FOXONE
+http://190.105.128.198:5800/play/a05p
+#EXTINF:-1, DIRECTV SPORT 
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1, DIRECTV SPORT PE
+http://181.65.191.173:8069/play/a08y
+#EXTINF:-1, DIRECTV OP2
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+#EXTINF:-1, DIRECTV 2
+https://streamvidex.qzz.io/videx/dsports2/index.m3u8
+#EXTINF:-1, DIRECTV PLUS
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1, TNT SPORTS
+http://179.1.87.75:8098/play/a0u6/index.m3u8
+#EXTINF:-1, TNT SPORTS OP2
+http://38.44.109.41:8003/play/a0g4/index.m3u8
+
+#EXTINF:-1, WIN SPORT 
+http://179.1.87.75:8098/play/a0he/index.m3u8
+#EXTINF:-1, UNIVERSO
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1, TELEMUNDO 
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1, DEPORTES TVC
+http://190.61.101.11:7050/play/a06t/index.m3u8
+#EXTINF:-1, FOX DEPORTES 
+http://186.33.25.234:8125/play/a04p
+#EXTINF:-1, T Y C SPORT 
+http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8
+#EXTINF:-1, REPRETEL 6
+http://186.33.25.234:8125/play/a09g
+#EXTINF:-1, REPRETEL 6 OP2
+http://190.61.101.11:7050/play/a07m/index.m3u8
+#EXTINF:-1, CANAL 11 GUATE
+http://190.61.101.11:7050/play/a07g/index.m3u8
+#EXTINF:-1, CANAL 4 ES
+http://186.33.25.234:8125/play/a03w
+#EXTINF:-1, AZTECA 7
+http://190.61.101.11:7050/play/a09b/index.m3u8
+#EXTINF:-1, CANAL 10 PE
+http://181.65.191.173:8069/play/a08u
+#EXTINF:-1, AZTECA DEPORTES 
+http://181.78.21.46:8009/play/a02y
+#EXTINF:-1, CHILEVISION
+http://179.1.87.75:8098/play/a0tw/index.m3u8
+#EXTINF:-1, TV PUBLICA
+http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
+#EXTINF:-1, CBS SPORT 
+http://stream.cammonitorplus.net/1751/index.m3u8
+#EXTINF:-1, MAX EVENTO 
+https://streamvidex.qzz.io/videx/max1/index.m3u8
+#EXTINF:-1, MAX EVENTO 
+https://streamvidex.qzz.io/videx/max2/index.m3u8
+#EXTINF:-1, FOX ONE
+https://streamvidex.qzz.io/videx/foxone1/index.m3u8
+#EXTINF:-1, FOX ONE 2
+https://streamvidex.qzz.io/videx/foxone2/index.m3u8
+#EXTINF:-1, FOX ONE 3
+https://streamvidex.qzz.io/videx/foxone3/index.m3u8
+#EXTINF:-1, VIX + 1
+https://streamvidex.qzz.io/videx/vixp1/index.m3u8
+#EXTINF:-1, VIX + 2
+https://streamvidex.qzz.io/videx/vix2/index.m3u8
+#EXTINF:-1, VIX + 3
+https://streamvidex.qzz.io/videx/vix3/index.m3u8
+#EXTINF:-1, VIX + 4
+https://streamvidex.qzz.io/videx/vix4/index.m3u8
+#EXTINF:-1, VIX + 5
+https://streamvidex.qzz.io/videx/vix5/index.m3u8
+#EXTINF:-1, SPORTV 
+https://streamvidex.qzz.io/videx/sportv1/index.m3u8
+#EXTINF:-1, SPORTV 2
+https://streamvidex.qzz.io/videx/sportv2/index.m3u8
+#EXTINF:-1, SPORTV 3
+https://streamvidex.qzz.io/videx/sportv3/index.m3u8
+#EXTINF:-1, FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1, TELEMETRO 
+https://cdndirector.dailymotion.com/cdn/live/video/x8nlwwo.m3u8?sec=CRrIXQkOneXSAIvyTE2U_tQtYOEcQS9TwQz3_uWSsV_S9Eg9tXlLEj-bDb1751QiNNlwNW8S3g2Aky4bd8-2Npqf_NbwWQ4H7Rn0W5nhNfYCGIUIEP8LeZg5L-VJTtUG&dmTs=932778&dmV1st=d0c9d018-ab6b-4574-1682-f9af1aee8b8f
